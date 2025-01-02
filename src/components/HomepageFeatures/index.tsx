@@ -14,25 +14,25 @@ const FeatureList: FeatureItem[] = [
     Svg: require(`@site/static/img/undraw_docusaurus_mountain.svg`).default,
     description:
   <>
-    We'll learn about protecting and securing users' information on computer systems
+    We'll learn about what databases are and why they're important
   </>,
-    title: `Security`,
+    title: `Database Concepts`,
   },
   {
     Svg: require(`@site/static/img/undraw_docusaurus_tree.svg`).default,
     description:
   <>
-    We'll learn to use the command line interface for system administration
+    We'll learn to write SQL queries to interact with databases
   </>,
-    title: `CLI`,
+    title: `Querying Databases`,
   },
   {
     Svg: require(`@site/static/img/undraw_docusaurus_react.svg`).default,
     description:
   <>
-    We'll learn how to install and manage disks and file systems
+    We'll learn about best practices for building databases
   </>,
-    title: `Filesystem`,
+    title: `Building Databases`,
   },
 ];
 
